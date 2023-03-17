@@ -52,7 +52,11 @@ public class login {
 		
 		
 	}
-	
+	@ Test
+	public void launchBrowser() {
+		
+		
+	}	
 	public String generateDateAndTimeStamp() {
 		
 		 	Date date= new Date();

@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-03-17T10:16:24 IST" name="Default suite" finished-at="2023-03-17T10:16:35 IST" duration-ms="11198">
+  <suite started-at="2023-03-17T10:27:40 IST" name="Default suite" finished-at="2023-03-17T10:27:51 IST" duration-ms="11397">
     <groups>
     </groups>
-    <test started-at="2023-03-17T10:16:24 IST" name="Default test" finished-at="2023-03-17T10:16:35 IST" duration-ms="11198">
+    <test started-at="2023-03-17T10:27:40 IST" name="Default test" finished-at="2023-03-17T10:27:51 IST" duration-ms="11397">
       <class name="com.amazon.qa.testcases.login">
-        <test-method signature="VerifyLoginWithVaildCredentials()[pri:0, instance:com.amazon.qa.testcases.login@5d0a1059]" started-at="2023-03-17T10:16:24 IST" name="VerifyLoginWithVaildCredentials" finished-at="2023-03-17T10:16:31 IST" duration-ms="7242" status="PASS">
+        <test-method signature="VerifyLoginWithVaildCredentials()[pri:0, instance:com.amazon.qa.testcases.login@5d0a1059]" started-at="2023-03-17T10:27:40 IST" name="VerifyLoginWithVaildCredentials" finished-at="2023-03-17T10:27:47 IST" duration-ms="7302" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyLoginWithVaildCredentials -->
-        <test-method signature="verifyLoginWithInvalidCredentials()[pri:0, instance:com.amazon.qa.testcases.login@5d0a1059]" started-at="2023-03-17T10:16:31 IST" name="verifyLoginWithInvalidCredentials" finished-at="2023-03-17T10:16:35 IST" duration-ms="3869" status="PASS">
+        <test-method signature="verifyLoginWithInvalidCredentials()[pri:0, instance:com.amazon.qa.testcases.login@5d0a1059]" started-at="2023-03-17T10:27:47 IST" name="verifyLoginWithInvalidCredentials" finished-at="2023-03-17T10:27:51 IST" duration-ms="4001" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginWithInvalidCredentials -->
